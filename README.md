@@ -2,7 +2,7 @@
 
 ESLint rules aligned with personal preference.
 
-### Example `.eslintrc`
+Example `.eslintrc`:
 ```
 {
     "parserOptions": {
